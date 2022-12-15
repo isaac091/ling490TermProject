@@ -1,1 +1,1 @@
-﻿# ling490TermProject
+﻿# LING 490 Term Project
